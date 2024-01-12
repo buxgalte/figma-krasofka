@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(./image/bacg\ 1.png);
+    width: 100%;
+   
+    
+
+}
+body {
+    background: url(./image/bacg\ 1.png) no-repeat center center fixed;
+    background-size: cover;
+}
+a{
+   text-decoration: none; 
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+    display: flex;
+
+    
+    border-radius: 30px;
+    background: #FFF;
+    margin-top: 100px;
+    width: 1013px;
+    height: 548px;
+}
+
+.left-section {
+   
+}
+
+.img-krasofka {
+    width: 486px;
+    height: 315px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.choose {
+    width: 176.625px;
+    height: 27px;
+   margin-top: 30px;
+   margin-left: 65px;
+    flex-shrink: 0;
+    color: #1345F9;
+    font-family: Times New Roman;
+    font-size: 25.79px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.sonlar{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.son {
+    width: 442.581px;
+    height: 35px;
+    margin-left: 35px;
+    column-gap: 20px;
+    color: #1345F9;
+    font-size: 29.019px;
+    font-weight: 400;
+}
+
+.right-section {
+    margin-left: 50px;
+}
+
+.title {
+    width: 318px;
+    height: 29px;
+    flex-shrink: 0;
+    color: #1345F9;
+    font-family: Times New Roman;
+    font-size: 25.703px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 50px;
+}
+
+.nike {
+    width: 316px;
+    height: 45.964px;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 34.412px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.narx {
+    width: 94px;
+    height: 37.342px;
+    color: #1345F9;
+    font-family: Times New Roman;
+    font-size: 38.031px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 30px;
+    display: block;
+}
+
+.text {
+    width: 316px;
+    height: 189px;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 20.963px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+}
+
+.all-btn {
+    width: 316px;
+    height: 63.828px;
+    background-color: #1345F9;
+    fill: #1345F9;
+    stroke-width: 1.046px;
+    /* stroke: #FFF; */
+    border-radius: 30px;
+    margin-top: 30px;
+    border: none;
+
+
+}
+
+.btn {
+    width: 186px;
+    height: 31px;
+    color: #FFF;
+    font-family: Sansation;
+    font-size: 25.79px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+
+}
